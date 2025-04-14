@@ -4,8 +4,6 @@
 
 <p align="center">
 <a href="#technologies">Technologies</a>
-<a href="#started">Getting Started</a>
-
  
 </p>
 
